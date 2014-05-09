@@ -2,7 +2,7 @@
 
 Scripts to facilitate configuration of a Tunlr-Clone server configured somewhat like outlined in the [Tunlr-Clone](https://github.com/corporate-gadfly/Tunlr-Clone) project.
 
-They are intended to be run from a remote server (e.g. a router on your home network).
+They are intended to be run from a remote server (e.g. a router on your home network).  For an example, see the [tunlr-dyndns branch of the merlin-meo-scripts project](https://github.com/twelve17/merlin-meo-scripts/tree/tunlr-dyndns)
 
 ## Installation
 
