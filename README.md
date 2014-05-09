@@ -1,6 +1,8 @@
 # tunlr-utils
 
-Update the configuration of a Tunlr-Clone server configured somewhat like outlined in the [Tunlr-Clone](https://github.com/corporate-gadfly/Tunlr-Clone) project.
+Scripts to facilitate configuration of a Tunlr-Clone server configured somewhat like outlined in the [Tunlr-Clone](https://github.com/corporate-gadfly/Tunlr-Clone) project.
+
+They are intended to be run from a remote server (e.g. a router on your home network).
 
 ## Installation
 
